@@ -1,5 +1,5 @@
 ---
-title: "Change Management"
+title: "1.3 Change Management"
 date: 2026-05-04 14:46:00 +0800
 categories: [Security+]
 tags: [Security+]
