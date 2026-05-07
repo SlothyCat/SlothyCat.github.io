@@ -14,6 +14,9 @@ Oh em gee! I am finally seeing the cloud. Okay, but I think I'm not knowledgeabl
 ## Cloud Security Concepts
 Cloud deployments include **IaaS, PaaS and SaaS** that distribute responsibility between provider and customer via a shared responsibility matrix. 
 
+![Alt text](/assets/images/cloud_responsibility_matrix.jpg)
+This is a Screenshot from Professor Messer's Youtube Video on Cloud Infrastructure.
+
 #### Hybrid & Multi Cloud challenges
 Using multiple cloud providers would mean that there is **more flexibility**, but also **more security overhead**. Since there is no direct communication, there might be mismatch risk, configuration differences or log format differences that will make it risky. Also, data is transmitted in the open between the 2 cloud.
 
