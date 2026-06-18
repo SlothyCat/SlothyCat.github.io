@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Cloud Computing"
-date: 2026-06-14 23:00:00 +0800
+date: 2026-06-17 23:00:00 +0800
 categories: [AWS Cloud]
 tags: [AWS Cloud]
 image:
