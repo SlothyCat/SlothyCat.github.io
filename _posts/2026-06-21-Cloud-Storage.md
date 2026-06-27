@@ -1,6 +1,6 @@
 ---
 title: "Cloud Storage"
-date: 2026-06-20 20:00:00 +0800
+date: 2026-06-21 20:00:00 +0800
 categories: [AWS Cloud]
 tags: [AWS Cloud]
 image:
