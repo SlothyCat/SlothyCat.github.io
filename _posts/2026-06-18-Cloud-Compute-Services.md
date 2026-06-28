@@ -21,7 +21,7 @@ This is one step above Managed Services, and this is also known as serverless. T
 
 Serverless covers the network traffic protection and server-side encryption, which is not covered by Managed Services.
 
-![alt](/assets/images/AWS_compute_servoces_responsibility_matrix.png)
+![alt](/assets/images/AWS_compute_services_responsibility_matrix.png)
 
 
 ### AWS Lambda
