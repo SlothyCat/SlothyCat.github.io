@@ -76,7 +76,7 @@ There is other useful documentation about compliance that can be found here, inc
 
 
 #### AWS Organizations
-Centrally manage and govern your environment as you grow and scale your AWS resources. It helps you manage policies for groups of accounts and automate account creation.
+**Centrally manage and govern** your environment as you grow and scale your AWS resources. It helps you manage policies for groups of accounts and automate account creation.
 
 There are different terminologies and concepts covered in `AWS Organizations`:
 
@@ -297,3 +297,6 @@ Normally split into 4 types:
 This is a long module because it covers more of the ad-hoc stuff related to the cloud and I did not really want to split it up. However, these are more on the administrative and compliance guidance and not really the core functionality of the cloud.
 
 And with that, we are done with the AWS Cloud Practitioner Essentials! It has been an eye-opening journey but I do feel that I was given more of a sneak peek and I look forward to potential applications of the knowledge I have learned.
+
+![alt](/assets/images/weird_pikachu.jpeg)
+Finally dones! Onto the next learning journey~
